@@ -14,3 +14,7 @@ Linguagem: C
 Bibliotecas: pthread.h (para manipulação de threads e mutexes)
 
 Conceitos Utilizados: Threads, Mutex, Deadlock, Prevenção de Deadlock, Detecção de Deadlock
+
+# Alunos: 
+Washington Smith Pinho Macambira
+William Wallace da Costa Pereira
