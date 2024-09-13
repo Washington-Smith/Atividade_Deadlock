@@ -1,5 +1,5 @@
 # Atividade_Deadlock
-Este projeto tem como objetivo implementar e demonstrar diferentes estratégias de prevenção e detecção de deadlock utilizando a linguagem de programação C/C++ e a biblioteca pthread para criar processos que manipulam recursos compartilhados. O projeto apresenta três implementações principais:
+Este projeto tem como objetivo implementar e demonstrar diferentes estratégias de prevenção e detecção de deadlock utilizando a linguagem de programação C e a biblioteca pthread para criar processos que manipulam recursos compartilhados. O projeto apresenta três implementações principais:
 
 Deadlock Induzido: Uma implementação proposital de deadlock, onde dois processos tentam adquirir recursos compartilhados em uma ordem invertida, resultando em um impasse.
 
