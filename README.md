@@ -17,4 +17,5 @@ Conceitos Utilizados: Threads, Mutex, Deadlock, Prevenção de Deadlock, Detecç
 
 # Alunos: 
 Washington Smith Pinho Macambira
+
 William Wallace da Costa Pereira
